@@ -1,0 +1,131 @@
+PENSAMENTO COMPUTACIONAL /CURSO
+
+
+Raciocinio logico é uma forma de pensamento estruturado, ou raciocio, que permite encontrar a conclusão ou determinada a resolução de um problema. 
+
+INDUÇÃO/ DEDUÇÃO/ ABDUÇÃO
+
+.Formulação e resolução de problemas sistemático e eficiente 
+
+Habilidade generalista / Escrita / Leitura/ Matematica
+Baseado em 4 pilares 
+
+DECOMPOSIÇÃO/ RECONHECIMENTO DE PADROES/ ABSTRAÇÃO 
+
+
+Decomposição.
+Estrategia, Paralelo, 
+ordem de execução de tarefas menores.
+
+Capaz de desenvolver o problema, antes precisa entender o conceito, 
+
+Entenda o problema, separa para indentificar 
+
+RECOCHECIMENTO DE PADROÊS
+
+.Modelo de base
+. Estrutura invariante
+. Repetição 
+
+ex: Compressão de dados 
+
+Classificação de objetos 
+. Como o computador reconhce padroês!
+. Grau de singularidade
+.Grupos conhecidos * objeto desconhecido 
+
+/ Comparação
+
+Simular: Representação de atributos 
+Aprendizado -  conceito associado ao objeto 
+Armazenar dados 
+Regras de decisão 
+
+Como simular esse comportamento!
+Representação de atributos 
+Aprendizado- conceito associado ao objeto
+Armazenar dados 
+Regras de decisão 
+
+Extraçaõ de caracteristicas/ Classificação de dados
+
+ABORDAGEM / Diferentes/ Metodos e Aplicaçãoes
+
+
+Padroes 
+.Aplicaçoes 
+.Classificação de dados 
+. Reconhecimento de imagem 
+. Recochecimento de fala 
+. Analise de cenas 
+. Classificação de documentos 
+
+Processo ultilizado por plataformas diferentes/ estrutura ivariantes 
+
+POR QUE DETERMINAR PADROES/
+
+Generelizar, com objetivo de obter resoluções para problemas diferentes 
+
+Aplicaçoes: Machine learning, redes neurais, inteligencia artificial, ciencia de dados.
+...................
+Abstração/ generalição
+
+Generalização, na logica é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenomenos similares.
+
+Indentificar os dados, 
+
+Como classificar os dados! 
+. Caracteristicas
+.Pontos essenciais 
+.Generalizar x detalhes 
+
+Focar no pontos essenciais antes de indentificar um objeto 
+
+.Algoritimos, linguagens de programação 
+. Arquiteturas 
+conceitos em abstrações 
+
+
+ALGORITIMOS
+
+Principal pilar pensamento computacional 
+
+.Energia
+.Trabalhador
+.Eficiente
+.Rapidez
+
+O Computador não opera sozinho.
+mas não opera sozinho, precisa de alguem para dar orientar a orientaçãoes 
+
+Programas- instruções 
+
+Desenvolvimento de um programa 
+
+.Analise 
+estudo e definiçãoes dos dados de entrada e saida 
+. Algoritimo 
+descreve o problema por nneio de ferramentas narrativas 
+.Codificação
+ 
+O algortimo é codificado de acordo com a linguagem 
+
+Sequencia de passos com objetivo definido 
+execução de tarefas especificas 
+
+Conjunto de operaçãoe 
+
+como construir um algoritmo
+
+Compreenção do problema 
+definição dados de entrada
+definir processamento 
+definir dados de saida 
+ultilizar um metodo de construção
+teste e diagnostico
+
+.Narrativa: linguagem natural (portuges)
+.Fluxograma: ultilização de simbolos pre-definidos 
+.Pseudocodigo: Portugol (precisa seguir cada passo a ser seguido)
+
+algoritimo e um passo a passo (tipo uma receita de bolo)

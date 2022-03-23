@@ -1,0 +1,174 @@
+A LOGICA PROGROMAÇÃO
+
+
+Entendendo a logica 
+
+. Coerencia de racionio, de ideias, sequencia coerente de ideias  
+
+Metacognição 
+. Pensar como você pensa 
+
+Abstração e a hanilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando caracteristicas menos importante ou acidentais.
+
+Entender o que e um logoritimo
+uma sequencia de passo que resolve um problema.
+
+Pseudocódigo 
+
+utilixando uma linguagem simples (nativa, ou seja, em portugues a quem escreve de forma a ser entendida por qualquer pessoa)
+
+Fluxograma e variaveis
+
+Flucograma É uma ferramenata utilizada para representar graficamente o algoritmo, isto e, a sequencia e coerente do fluxo de dados
+
+E um tipo de diagrama e pode ser entendido como uma representação esquematica de um processo. podemos entender na pratica como a documentação dos passos necessarios para a execução de um processo qualquer. 
+
+DIAGRAMA DE BLOCOS 
+.processo
+decisão
+terminal
+documento 
+varios documentos 
+entranda manual
+preparação 
+dados
+base de dados
+display
+
+Variaveis e constantes 
+
+Na programação, uma variavel e um objeto uma posição frquentemente localizada na memmoria capaz de reter e representar do algoritmo.
+
+variaveirs e as constantes podem ser classificadas basicamente de quatro tipos: Numericas, Caracteres, Alfanumericas ou Logicas.
+
+AS constantes são valores imutaveis e não sao alterados durante a vida ultil do programa. 
+
+Expressoes aritimeticas 
+
+"São que utilizam operadores aritmeticos e funçoes aritmeticas envolvendo constante e variaçoes.
+
+Multiplicação *
+diviços /
+potenciação ^
+
+Expressoes literais 
+
+São expressoes com constantes e/ou variaveis que tem como resultado valores literais. iremos utilizar as expressoes literais na atribuição de valor para uma variavel ou cosntante.
+
+exemplo;
+nome=" jose da silva"
+nome "jose da silva" 
+media =(nota1+nota2+nota3+nota4)/4
+
+São expressões compostas por outras expressoes ou variaveis numericas com operadores relacionais as expressoes relacionais retornam valores logicas 
+(verdadeiro/falso)
+
+Quando escrevemos programas geralmente ocorre a necessidade de decidir o que fazer dependendedo de alguma condiçãdição encontrada durante a execução.
+
+Tomando de decisão 
+fluxograma, verdadeiro / falso 
+
+quando for texto vc usa a aspas.
+
+definir as variaveis....
+
+CONCATENAÇÃO
+.É um termo usado em computação para designar a operação de unir o conteudo de duas strings
+
+*string é uma sequencia de caracterios 
+
+Agrupamento de duas ou mais celulas que, incluindo formulas textos ou outras informaçãoes contida no seu interios da origem a um unico resultado.
+
+Usar o fluxograma para definir a suas variaveis 
+
+Estrutura de repetição 
+
+1- Aprender o que e uma estrutura de repetição como utiliza-la
+
+Dentro da logica de programação é uma estrutura que permite executar  mais de vez o mesmo comando ou conjunto de comandos de acordo com uma condição 
+
+Introdução ao Portugol 
+
+Estrutura de repetição 
+
+. O que são programação e o postugol 
+
+Linguagem de programação é uma linguagem escrita formal que especifica um conjunto de instruçoes e regras usadas para gerar programas (software) um pode ser deselvolvido para rodar em um computador, dispositivo movel ou em qulaquer equipamento que permite sua execução.
+
+uma comunicação entre a maquina para que possa gerar e programas as demandas 
+
+. Baixo e alto nivel 
+
+Alto nivel
+essas sao aquelas cujas sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem de maquina 
+
+Baixo nivel 
+E aquela que se aproxima mais da linguagem de maquina. essas são as que voce precisa ter conhcecimento direto da arquitetura do computador para fazeer alguma coisa.
+
+COMPILADAS OU INTERPRETADAS
+
+Compiladas linguagem de programação em que o codigo fonte, é executado diretamente pelo sistema operacional ou pelo processador, apos ser traduzido por eio de um processo chamado compilação 
+
+Interpretadas 
+linguagem de programação em que o codigo fonte é executado por um programa.
+
+O que e o Postugol.
+
+
+Exemplo: 
+real nota1,nota2,nota3,nota4, media 
+cadeia aluno
+
+escreva("digite o nome do aluno")
+leia(aluno)
+escreva("digite a nota 1:")
+leia(nota1)
+escreva(digite a nota 2:")
+leia(nota2)
+escreva("digite a nota 3:")
+leia(nota3)
+escreva("digite a nota 4:")
+leia(nota4)
+
+media = (nota1+nota2+nota3+nota4)/4
+
+escreva("O aluno " + aluno + " obteve a media: " + media)
+
+
+escrever novo codigo obter 
+somar 
+as vendas 
+janeiro, fevereiro, março, abril 
+somar as vendas e calcular a media 
+e exibir o total  de vendas desse consumidor + o total em media 
+
+EXEMPLO 
+
+se (media>=7) {
+escreva9"Parabens voce foi aprovado") 
+
+senao {
+      escreva('infelizmente voce foi reprovado")
+
+significa ///
+e so um comentario de programador para vc utilizar quando for trabalhar 
+
+
+Desvio condiconal caso
+Este comando é similiar aos comandos SE e SENÃO, e reduz a complexidade na escolha de diversos opçoes apesar de suas similaridades com o se, ele possui algumas diferenças. Neste comando não possivel uso de opreradores logicos, ele apenas trabalha com valores infinitos.
+
+Exemplo 
+inteiro valor=0
+escolha(valor0
+{
+caso :
+
+dentro da logica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador.
+
+MATRIZES E VETORES 
+
+umaa matriz é uma coleção de variaveis de mesmo tipo, acessiveis com unico nome e armazenados contiguamente na memoria 
+
+a individualidade de cada variavel de um vetor e feita atraves do uso de indices 
+
+Os vetores são matrizes de uma so sdimensão.

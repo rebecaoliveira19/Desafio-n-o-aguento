@@ -1,0 +1,80 @@
+
+entendendo o que GIT e sua impostancia 
+
+1- Controle de versão 
+2- Armazenamento em nuvem
+3- Trabalho em equipe 
+4- Melhorar seu codigo
+5 - Reconhecimento
+
+GUI X CLI  comandos 
+
+Windos comandos  app comando cmd
+procurando arquivos, limpar as pastas 
+
+-cd ..
+-dir listar o arquivo
+-mkdir
+-del/rmdir
+-cls limpar a tela 
+- di
+
+teclado voce pode usar 
+Tab e Seta pra cima 
+ usando dir aparece os arquivos 
+c:\workspace echo nome da pasta 
+
+como Git funciona de baixo dos panos
+
+-SHA1
+-OBJETOS FUNDAMENTAIS
+-SISTEMAS DISTRIBUIDO
+-SEGURANÇA
+
+A sigla Sha significa secure hash algoritmo é um cinjunto de funçoes hash criptograficas projetadas pela NSA 
+
+A encriptaçao gera conjunto de characteres identificador de 40 difgitos.
+
+Como usar Git 
+Objetos internos do Git 
+BLOBS: \0 a estrutura basica do blob
+
+TREES: armazendo arvore contem dados, que apontam para blog que guarda o arquivo, vai ser responsavel por estruturar 
+se vc mudar um arquivo, por consequencia ira mudar toda a estrutura.
+
+COMMITS: vai juntar tudo, objeveto tem carimbo de tempo, tempo, data, horario, autor, mensagem 
+
+GIT é um  Sistema distribuido seguro
+
+GIT vai amazenar metas dados, o tipo de objeyo, arquivo 
+
+Token de acesso pessoal 
+token de acesso que crie 
+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
+ecdsa-sha2- nistp256
+
+
+- git init
+- git add
+- git commit
+
+rebecaoliveira19@users.noreply.github.com
+
+Git Init Tracked 
+Untraked, Unmodified, Modified, Staged
+
+Adiciona o arquivo,
+Edita o arquivo
+Stage o arquivo
+Remove o arquivo
+Commit
+
+Amabiente de desenvolvimento 
+Sevidor: Remote repository 
+Working Directoy
+Staging area 
+Local repository 
+
+Resolvendo Conflitos 
+
+formatar arquivos, seu codigo

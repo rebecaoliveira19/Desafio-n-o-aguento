@@ -1,0 +1,219 @@
+Net o que e.
+
+Plataforma de desenvolvimento com diversas 
+ferramentas, linguagens de programação e bibliotecas que permitem o desenvilvimento de diversos tipos de aplicaçõe .
+
+.Net Foundation
+
+ASP. NET - framework que estende. Net para a criação de Web apps
+
+. Gratuita e de software livre 
+plataforma cruzada
+tipo de aplicações 
+.Web
+.Mobile
+.Destop
+.Microservices
+.Cloud
+Machine Learning
+.Jogos
+.Internet das coisas 
+
+.Net framework 
+.Net core Xamarin
+
+x 64 
+x 32
+ARM 32
+ARM64
+
+Net framework 
+.Net Core 
+Xamarin 
+
+ambientes de desenvolvimento (IDES)
+.Visual Studio 
+Visual Studio Core 
+Codespaces (online)
+
+Linguagens de programação 
+c#
+f# visual basic
+
+Bibliotecas para desenvolvimento e execução de aplicaçoes net
+
+SDK
+Runtime 
+Nuget: Gerenciador de pacotes 
+acesso a dados 
+Orm entity framework core
+Ling  - consulta integrada a linguagem  
+
+Desenvolvimento multiplataforma com NET: contexto e conceitos
+2 Entendendo .NET Framework 
+3. Entendendo .NET / .NET Core 
+Entendendo Xamarin 
+
+O que é .NET Framework?
+
+- Ambiente de desenvolvimento e execução focados em Windows 
+Common language runtime + .NET Class Library 
+
+Gerenciamento de execução dos apps
+
+Bibioteca para reutilização de codigos 
+
+que contem pastas dentro do sistema 
+
+Caracteristicas principais 
+
+. Gerenciamento de memoria 
+Sistema de tipos comum Tipos definidos pelo proprio framework 
+Grande e especificos bibliotecas de classe utilitarias 
+interoperabilidade entre as linguiagens 
+Compatilidade de versão 
+Uso do NET .Stander 
+
+Sobre .NET Core e Net 
+
+Plataforma cruzada : Linux, Windos e Mac Os 
+Produzindo um produto  com base de codigo unico 
+Open Source MIT e Apache 2
+Aquisição facilitada a partir do NUGET 
+Modular e com melhor desempenho 
+
+SOBRE ASP.NET CORE
+
+Contrução de aplicaçoes web, Iot apps e aplicaçoes backend para mobile 
+Funcionalidade para contruçoes de aplicaçoes com renderização no servidor 
+Uso do MVC ASP.NET CORE MVC
+
+Model: representa o estado da aplicação, encapsulamento logica de negocipo 
+
+View responsavel por apresentar dados atraves de interface.
+Controller: Comnponentes que lidam com a intençao do usuario a partir da View e trabalham com a model para apresentar respostas para usuario. 
+
+/ Construção de aplicativos web, lot apss e aplicaçoes backend para mobile 
+.Funcionalidades para construções de aplicaçoes com renderização mo no servidor 
+
+Model Binding
+Mapeamento automatico de dados de requisição HTTP
+para parametros de metodos de ação 
+Model Validation Validação automatico no lado cliebnte e servidor 
+
+Construção de aplicaçoes web, lot apps e aplicaçoes backend para mobile 
+funcionalidades para construção de aplicaçoes com renderizaçãp no sevidor 
+
+MOdelo baseado em paginas simplificado 
+interface e logicas de negoicio são separados mas dentro da pagina 
+sintexa de marcaçao para inserir o codigo baseado em .NET em pagionas da Web = Razor markup =c# +HTML
+
+.Uso do MVC - ASP. NET CORE MVC
+
+Razor pages e razor markup 
+Tag Helpers 
+.Permitindo que o codigo do lado do servidor participe da criação e renderização de elementos HTML em arquivos Razor 
+.Exeperiencia de desenvolvimento com HTML mais amigavel 
+.Intellisense no ambiente para sintaxe HTML e Razor 
+.Manutenção de codigo usando somemnte informaçãoes do servidor.
+
+
+Framework para construir aplicativos do lado do cliente, que são executados direto no navegador comWebassembly(WASM) usando c#
+.Uso da interoperabilidade com Jvascript para lidar com manipulação da DOM, e chamadas de API.
+
+SOBRE XAMARIN 
+
+.Plataforma para desenvolvimento de aplicaçoes mobile modernas com alto desempenho
+Baseado no projeto Mono, impletação open source baseadas no .NET Framework 
+
+. Criação de interface nativa em cada plataforma (Adroind,IOS, MACOS E WIBDOWS apps) e codigos de logica compartilhamento
+.Possui todos os beneficios ja citados da plataforma NTE.
+
+XAML: Extensible Application 
+Markup language 
+
+XAMARIN.ANDROID 
+.Compilação de c# para LI (Linguagem intermediaria)
+que por sua vez e complicado para assembly nativo no momento da execução 
+
+visual core
+
+Ser confiavel
+Ser sustentavel
+Ser eficiente para ter um bom codigo 
+
+Por qu e como devemos padronizar?
+
+Melhorar comunicação entre a equipe
+Facilitar manutenção de codigos
+Utilizar documentação boas praticas de codificação, como clean code
+
+O que é clean code?
+
+Conjunto de boas e praticas na escrita de software para obtenção de maior legibilidade e manutebalidade de codigo.
+
+REGRAS GERAIS
+
+Siga sempre as convençoes adotadas pela equipe
+.Kiss: Keep it Stupid simple
+Devolve o codigo mais limpo do do que vc encontrou
+Busque sempre entender e solucionar os problemas a partir de sua raiz.
+
+Notação HUngara
+
+.Escrever palavras ou frases compostas considerando a primeira letra da primeira palavra sempre minuscula e as subsequenttes maisculas
+
+EX: valorDoDesconte, nomeCompleto, totalSalario
+
+Qual e o padrão para c#
+
+Não há uma regra obrigatoria, porem grande maioria dos desenvolvedores conviciomnais da seguinte forma 
+
+Nomes de classes e metodos > PascalCase
+Nomes de variaveis e parametros > CamelCase
+
+No caso de interfaces recomenda-se o uso do prefixo " I " 
+ex: IEntidade, IRepositorioCliente,
+
+Uso do pascal case
+.Classes
+.Interfaces
+.Membros de tipos publicos
+
+Uso com CamelCase
+Campo privados e internos > deve-se ainda usa los 
+
+Recomendaçãoes da Microsoft
+
+Uso do PascalCase
+Classes
+Interfaces
+Membros de tipos publicos
+Uso com CamelCase
+Campos privados e internos
+Deve-se ainda usa com prefixo
+Campos estaticos privados internos
+Usar com prefixo "s_"
+
+.Azure Service Fabric
+.Azure App Service
+
+.Hospedagem em infraestrutura linux ou Windows 
+. Azure Kurbenetes Service
+
+Aplicaçoes Desktop
+.Universal Windos Apps
+.Windows forms
+Xamarin.Mac
+
+AZURE: Plataforma de nuvem completa que pode hospedar aplicativos e simplificar o desenvolcimento de novos aplicativos 
+
+Azure SQL : Versão em nuvem do SQL server
+
+Framework de aprendidagem de maquina de plataforma cruzada e open source 
+Criação de modelos de aprendizage, de maquinas  a partir de interface grafica (Model Builder) ou por meio do ML.NET CLI 
+
+Plataforma Lot e full-stack que permite construir soluçoes focadas para insdustria de forma segura e escalavel 
+Integrado com Azure 
+
+Integração com outros frameworks famosos como TensorFlow, ONNX INFER.NET
